@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08a4bd8b-0d10-4581-873b-e89343402bc9" name="Changes" comment="평균 구하기">
-      <change afterPath="$PROJECT_DIR$/src/com/example/test02.java" afterDir="false" />
+    <list default="true" id="08a4bd8b-0d10-4581-873b-e89343402bc9" name="Changes" comment="짝수와 홀수">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/example/test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/test02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +135,7 @@
       <updated>1651587230558</updated>
       <workItem from="1651587232060" duration="78000" />
       <workItem from="1651670683404" duration="1439000" />
-      <workItem from="1651759449826" duration="87000" />
+      <workItem from="1651759449826" duration="1528000" />
     </task>
     <task id="LOCAL-00001" summary="평균 구하기">
       <created>1651671467910</created>
@@ -144,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651671467910</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="짝수와 홀수">
+      <created>1651759617162</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651759617162</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +170,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="평균 구하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="평균 구하기" />
+    <MESSAGE value="짝수와 홀수" />
+    <option name="LAST_COMMIT_MESSAGE" value="짝수와 홀수" />
   </component>
 </project>
