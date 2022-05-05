@@ -1,5 +1,6 @@
 package com.example;
 
+// 평균 구하기
 public class test01 {
     public double solution(int[] arr) {
         double answer = 0;
