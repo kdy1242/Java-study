@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08a4bd8b-0d10-4581-873b-e89343402bc9" name="Changes" comment="짝수와 홀수">
+    <list default="true" id="08a4bd8b-0d10-4581-873b-e89343402bc9" name="Changes" comment="static">
+      <change afterPath="$PROJECT_DIR$/src/com/example/timeComplexity/timeComplexityExam1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/test02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +94,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.test02">
+  <component name="RunManager" selected="Application.timeComplexityExam1">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Main" />
       <module name="untitled104" />
@@ -118,8 +117,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="timeComplexityExam1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.timeComplexity.timeComplexityExam1" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.timeComplexity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.timeComplexityExam1" />
         <item itemvalue="Application.test02" />
         <item itemvalue="Application.Main" />
       </list>
@@ -135,7 +148,7 @@
       <updated>1651587230558</updated>
       <workItem from="1651587232060" duration="78000" />
       <workItem from="1651670683404" duration="1439000" />
-      <workItem from="1651759449826" duration="1528000" />
+      <workItem from="1651759449826" duration="3146000" />
     </task>
     <task id="LOCAL-00001" summary="평균 구하기">
       <created>1651671467910</created>
@@ -151,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651759617162</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="static">
+      <created>1651765316757</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651765316757</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +191,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="평균 구하기" />
     <MESSAGE value="짝수와 홀수" />
-    <option name="LAST_COMMIT_MESSAGE" value="짝수와 홀수" />
+    <MESSAGE value="static" />
+    <option name="LAST_COMMIT_MESSAGE" value="static" />
   </component>
 </project>
