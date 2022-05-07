@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08a4bd8b-0d10-4581-873b-e89343402bc9" name="Changes" comment="static">
-      <change afterPath="$PROJECT_DIR$/src/com/example/timeComplexity/timeComplexityExam1.java" afterDir="false" />
+    <list default="true" id="08a4bd8b-0d10-4581-873b-e89343402bc9" name="Changes" comment="수 정렬하기 - 연산 횟수가 N^2인 경우">
+      <change afterPath="$PROJECT_DIR$/src/com/example/LightPathCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/P11720_숫자의합.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,6 +95,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.timeComplexity" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.timeComplexityExam1">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Main" />
@@ -148,7 +154,9 @@
       <updated>1651587230558</updated>
       <workItem from="1651587232060" duration="78000" />
       <workItem from="1651670683404" duration="1439000" />
-      <workItem from="1651759449826" duration="3146000" />
+      <workItem from="1651759449826" duration="3577000" />
+      <workItem from="1651928304318" duration="91000" />
+      <workItem from="1651929928060" duration="3449000" />
     </task>
     <task id="LOCAL-00001" summary="평균 구하기">
       <created>1651671467910</created>
@@ -171,7 +179,28 @@
       <option name="project" value="LOCAL" />
       <updated>1651765316757</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="수 정렬하기 - 연산횟수가 N인 경우">
+      <created>1651846890181</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651846890181</updated>
+    </task>
+    <task id="LOCAL-00005" summary="수 정렬하기 - 연산 횟수가 3N인 경우">
+      <created>1651846987560</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651846987560</updated>
+    </task>
+    <task id="LOCAL-00006" summary="수 정렬하기 - 연산 횟수가 N^2인 경우">
+      <created>1651847086199</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651847086199</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +221,9 @@
     <MESSAGE value="평균 구하기" />
     <MESSAGE value="짝수와 홀수" />
     <MESSAGE value="static" />
-    <option name="LAST_COMMIT_MESSAGE" value="static" />
+    <MESSAGE value="수 정렬하기 - 연산 횟수가 N인 경우" />
+    <MESSAGE value="수 정렬하기 - 연산 횟수가 3N인 경우" />
+    <MESSAGE value="수 정렬하기 - 연산 횟수가 N^2인 경우" />
+    <option name="LAST_COMMIT_MESSAGE" value="수 정렬하기 - 연산 횟수가 N^2인 경우" />
   </component>
 </project>
